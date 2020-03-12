@@ -1,4 +1,4 @@
-*** Understanding SVG's ***
+*** Understanding SVGs ***
 > SVG - Scalable Vector Graphics
     - Draw shapes with computer code
         -- rectangles, circles, ellipses, lines, texts, and paths
@@ -28,7 +28,7 @@
             <path d="M10 80 C 40 10, 65 10, 95 80 S 150 150, 180 80" stroke="black" fill="transparent"/>
         </svg>
 
-> Adding SVG's with D3
+> Adding SVGs with D3
 
     - D3 Select - use D3 to grab hold of elements on the screen ( d3.select(), d3.selectAll() )
 
